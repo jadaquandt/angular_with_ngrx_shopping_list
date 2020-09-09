@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Pepsi Max"
+    },
+    {
+      "id": "c691eb52-98ba-4dcf-a47f-706c3f5016f9",
+      "name": "Diet Coke"
+    },
+    {
+      "id": "7b7a471b-394f-4baa-aa2b-58be9bf44aa0",
+      "name": "Ice Cream"
+    }
+  ]
+}
